@@ -2,20 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Affiliations</a> Ph.D. Candidate
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Computer Science</p>
+    <p>University of Illinois at Chicago</p>
+    <p>851 S. Morgan St., Chicago, IL 60607</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I am a doctoral student in the Department of Computer Science at the University of Illinois at Chicago (UIC). My main research interests are in the areas of machine learning and natural language processing (NLP). I am particularly focused on reducing the computational costs of neural models in language modeling and sequence transduction tasks.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
