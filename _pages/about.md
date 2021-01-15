@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a> Ph.D. Candidate
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile_pic.png
   address: >
     <p>Department of Computer Science</p>
     <p>University of Illinois at Chicago</p>
