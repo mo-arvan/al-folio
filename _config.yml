@@ -16,7 +16,7 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: True # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -44,7 +44,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: mo-arvan # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: mo-arvan# your LinkedIn user name
+linkedin_username: mo-arvan # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
