@@ -8,14 +8,14 @@ layout: default
     <h1 class="post-title">
      {% if site.title == blank %}{{ site.title }}{% else %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% endif %}
     </h1>
-     <p class="desc">{{ page.description }}</p>
+     <p class="post-description">{{ page.description }}</p>
   </header>
 
   <article>
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
       {% if page.profile.image %}
-        <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+        <img class="img-fluid rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
       {% endif %}
       {% if page.profile.address %}
         <div class="address">
