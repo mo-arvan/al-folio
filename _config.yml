@@ -66,8 +66,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Thinking Out Loud  # your blog must have a name for it to show up in the nav bar
+blog_description: An attempt to express and organize my thoughts 
 permalink: /blog/:year/:title/
 
 # Pagination
