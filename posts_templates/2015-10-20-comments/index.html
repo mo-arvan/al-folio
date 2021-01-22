@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Mohammad  Arvan | blank</title>
+<title>Mohammad  Arvan | a post with comments</title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/posts_templates/2015-10-20-comments/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -94,7 +94,7 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
               
@@ -183,26 +183,34 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-    <h1>Thinking Out Loud</h1>
-    <h2>An attempt to express and organize my thoughts</h2>
-  </div>
+<div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">a post with comments</h1>
+    <p class="post-meta">October 20, 2015</p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/formatting-and-links/">a post with formatting and links</a></h3>
-        <p class="post-meta">March 15, 2015</p>
-        <p>march & april, looking forward to summer</p>
-      </li>
-    
-  </ul>
+  <article class="post-content">
+    <p>This post shows how to add DISQUS comments.</p>
+
+  </article>
 
   
-
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_shortname  = 'al-folio';
+      var disqus_identifier = '';
+      var disqus_title      = "a post with comments";
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  
 
 </div>
 
