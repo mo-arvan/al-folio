@@ -1,8 +1,9 @@
 ---
 layout: page
 title: personal
-permalink: /personal
+permalink: /personal/
 description: A little info about my personal life :)
+nav: true
 
 ---
 
