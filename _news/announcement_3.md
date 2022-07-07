@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-06-12 16:11:00-0400
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+'Reproducibility of Exploring Neural Text Simplification Models: A Review' was accepted at  15th International Natural Language Generation Conference 

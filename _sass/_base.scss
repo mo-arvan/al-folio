@@ -914,6 +914,12 @@ progress::-moz-progress-bar {
   display: block;
   height: inherit;
 }
+blockquote {
+  border-left: 2px solid var(--global-theme-color);
+  padding-left: 2em;
+  font-style: italic;
+  color: var(global-footer-text-color);
+}
 
 /* Copy button */
 .code-display-wrapper {
