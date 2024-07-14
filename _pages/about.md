@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate, CS Department, University of Illinois at Chicago
+subtitle: Computer Scientist
 
 profile:
   align: right
@@ -24,4 +24,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hey there! I'm Mohammad Arvan, a Ph.D. candidate in Computer Science at the University of Illinois at Chicago, under the supervision of [Dr. Natalie Parde](https://www.natalieparde.com/index.html). My research is centered on improving the reliability of machine learning, with a particular focus on evaluation and reproducibility. I advocate for Open Science, emphasizing transparency, equity, and inclusivity in research practices. With a strong engineering background, I prioritize practical solutions to enhance the trustworthiness of machine learning technologies.
+
+I'm Mo. I completed my Ph.D. in Computer Science at the University of Illinois at Chicago, where I was mentored by [Dr. Natalie Parde](https://www.natalieparde.com/index.html). My research encompasses various areas within artificial intelligence such as machine learning, natural language processing, computer vision, and robotics.
+
+I am particularly committed to improving the evaluation and reproducibility of machine learning models. I am an advocate for Open Science, promoting transparency, equity, and inclusivity in research methodologies. I believe in the power of AI to serve the common good and enjoy solving complex problems with effective solutions.
+
+Additionally, I have a keen interest in the intersection of AI and healthcare. This includes working on developing machine learning models to identify high-risk cancer patients and innovating AI-based tools for the early detection of diseases. My aim is to enhance healthcare delivery and improve patient outcomes through the application of artificial intelligence.
+
