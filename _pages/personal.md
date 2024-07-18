@@ -8,11 +8,11 @@ nav: true
 ---
 
 Random fun facts about me: 
-- I usually go by Mo, Mohammad, Arvan (aa-RVae-N), or Aaron (its Hebrew form). I really don't have a preference.
+- I go by Mo.
 - I ran 2021 Chicago Marathon as a [St. Jude Hero](http://heroes.stjude.org/arvan)!
 - I was born in [Esfahan](https://en.wikipedia.org/wiki/Isfahan), Iran. 
-- There are more than 16 ways to pronounce my last name in Persian. This was a lot of growing up!
-- My last name means polite/nice. More info at [here](https://translate.google.com/translate?hl=&sl=auto&tl=en&u=https%3A%2F%2Fabadis.ir%2Ffatofa%2F%25D8%25A2%25D8%25B1%25D9%2588%25D9%2586%2F).
+- There are more than 16 ways to pronounce my last name in Farsi/Persian. This was a lot of growing up!
+- According to largest Persian dictionary, [Dehkhoda](https://en.wikipedia.org/wiki/Dehkhoda_Dictionary), my last name means good virtue or quality. More info at [here](https://translate.google.com/translate?hl=&sl=auto&tl=en&u=https%3A%2F%2Fabadis.ir%2Ffatofa%2F%25D8%25A2%25D8%25B1%25D9%2588%25D9%2586%2F).
 
 
 <!-- AA as in "odd (AA.D)" ; R as in "race (R.EY.S)" ; V as in "vow (V.AW)" ; AE as in "at (AE.T)" ; N as in "knee (N.IY)" ; -->
