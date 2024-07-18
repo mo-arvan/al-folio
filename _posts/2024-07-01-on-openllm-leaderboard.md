@@ -2,7 +2,7 @@
 layout: distill
 title: "On OpenLLM Leaderboard"
 description: Technical review of the latest changes in the OpenLLM leaderboard
-date: 2022-11-17
+date: 2024-07-01
 
 authors:
   - name: Mohammad Arvan
