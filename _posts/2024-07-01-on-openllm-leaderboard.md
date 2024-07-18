@@ -2,6 +2,7 @@
 layout: distill
 title: "On OpenLLM Leaderboard"
 description: Technical review of the latest changes in the OpenLLM leaderboard
+tags: 'machine learning' evaluation LLM 'language models'
 date: 2024-07-01
 
 authors:
