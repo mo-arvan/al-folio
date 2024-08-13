@@ -22,7 +22,7 @@ bibliography: 2018-12-22-distill.bib
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
   - name: Abstract
-  - name: Challenges in Evaluating LLMs: A Statistical Analysis of Chatbot Arena Leaderboard
+  - name: "Challenges in Evaluating LLMs: A Statistical Analysis of Chatbot Arena Leaderboard"
   # - name: Layouts
   # - name: Other Typography?
 
