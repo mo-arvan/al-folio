@@ -22,7 +22,7 @@ bibliography: 2018-12-22-distill.bib
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
   - name: Abstract
-  - name: "Challenges in Evaluating LLMs: A Statistical Analysis of Chatbot Arena Leaderboard"
+  - name: "Statistical Analysis of Chatbot Arena Leaderboard"
   # - name: Layouts
   # - name: Other Typography?
 
@@ -51,7 +51,7 @@ _styles: >
 
 Evaluating LLMs, particularly within the Chatbot Arena leaderboard, poses substantial challenges due to the variability in model outputs and the dependence on human judgment. In this post, I employ statistical analysis to assess the reproducibility of leaderboard rankings, with a focus on comparing GPT-4 and Claude-v1. My findings indicate that although differences between models  is statistically significant, the reliability of these results is compromised by insufficient sample sizes. Ultimately, this analysis showcases the application of statistical methods in evaluating LLMs and highlights the need for more rigorous evaluation practices in the field.
 
-## Challenges in Evaluating LLMs: A Statistical Analysis of Chatbot Arena Leaderboard
+## Statistical Analysis of Chatbot Arena Leaderboard
 
 Progress in machine learning research is often driven by benchmarks, which provide objective comparisons between different models and algorithms. One prominent benchmark in the field of conversational AI is the Chatbot Arena, a leaderboard that ranks chatbot models based on ratings from human evaluators. However, evaluating generated text remains a complex challenge. In this post, I will discuss these challenges and present a statistical approach to investigate the reproducibility of the Chatbot Arena leaderboard.
 
