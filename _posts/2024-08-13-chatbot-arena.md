@@ -49,7 +49,7 @@ _styles: >
 
 ## Abstract
 
-Evaluating LLMs, particularly within the Chatbot Arena leaderboard, poses substantial challenges due to the variability in model outputs and the dependence on human judgment. In this post, I employ statistical analysis to compare GPT-4 and Claude-v1. My findings indicate that although differences between models  is statistically significant, the reliability of these results is compromised by insufficient sample sizes. Ultimately, this analysis showcases the application of statistical methods in evaluating LLMs and highlights the need for more rigorous evaluation practices in the field.
+Evaluating LLMs on the Chatbot Arena leaderboard presents substantial challenges due to the variability in model outputs and the dependence on human judgment. In this post, I employ statistical analysis to compare GPT-4 and Claude-v1. My findings indicate that although differences between models is statistically significant, the reliability of these results is compromised by insufficient sample sizes. Ultimately, this analysis showcases the application of statistical methods in evaluating LLMs and highlights the need for more rigorous evaluation practices in the field.
 
 ## Statistical Analysis of Chatbot Arena Leaderboard
 
