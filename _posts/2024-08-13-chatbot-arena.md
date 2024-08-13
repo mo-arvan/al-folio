@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: "Challenges in Evaluating LLMs: A Statistical Analysis of Chatbot Arena Leaderboard"
-description: Com
+title: 'Challenges in Evaluating LLMs: A Statistical Analysis of Chatbot Arena Leaderboard'
+description: Comparing GPT-4 and Claude-v1 using statistical analysis
 tags: ML Evaluation LLM NLP
 date: 2024-08-13
 
